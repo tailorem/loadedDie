@@ -26,8 +26,3 @@ console.log(rollLoadedDie());  // 6
 
 // console.log(rollDie());
 
-
-
-
-// rollCount++;
-//     return list[rollCount];
